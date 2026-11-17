@@ -17,7 +17,7 @@ The following figure present the information flow for the map readability proces
 
 <br>
 
-[description](https://github.com/LarsHarrieLund/MapReadability/tree/main/Img/MultimodalFFA-Lund.tif)
+[description](https://github.com/LarsHarrieLund/MapReadability/tree/main/Img/MRAS_Lund.png)
 
 <br>
 <br>
