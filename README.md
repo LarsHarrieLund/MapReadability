@@ -16,7 +16,7 @@ This repository includes information on....
 The following figure present the information flow for the map readability process...
 
 <br>
-<img src="" ></img>
+<p align="center"><img width="700" src="https://site.com/image.png" alt="description" /></p>
 <br>
 <br>
 
