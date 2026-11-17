@@ -28,3 +28,9 @@ The repository includes the following folders:
 - MRAS part 1 - instructions: [add short description of folder contents]
 - MRAS part 2 - Lund - instructions: [add short description of folder contents]
 - MRAS part 2 - LA - instructions: [add short description of folder contents]
+
+<br>
+<br>
+
+## License
+BSD 3 Clause
