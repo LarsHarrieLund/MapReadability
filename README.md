@@ -16,7 +16,7 @@ This repository includes information on....
 The following figure present the information flow for the map readability process...
 
 <br>
-<p align="center"><img width="700" src="[https://site.com](https://github.com/LarsHarrieLund/MapReadability/tree/main/Img/Multimodal FFA - Lund.tif") alt="description" /></p>
+<p align="center">![description](https://github.com/LarsHarrieLund/MapReadability/tree/main/Img/Multimodal FFA - Lund.tif) </p>
 <br>
 <br>
 
