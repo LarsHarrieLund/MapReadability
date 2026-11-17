@@ -2,8 +2,10 @@
 <br>
 <br>
 
-# Content
+# Multimodal feature fusion parts 1-2 - Lund
 This folder contains the Python scripts and bash-scripts used to perform multimodal feature fusion for the study area of Lund.
+
+<br>
 
 - larger_area_infer.py: [add description]
 - map_readability.py: [add description]
