@@ -1,0 +1,95 @@
+{
+  {
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Map Readability Batch Assessment",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+      "filename",
+      "observation_summary",
+      "amount_of_information_class",
+      "amount_of_information_arguments",
+      "spatial_distribution_class",
+      "spatial_distribution_arguments",
+      "object_complexity_class",
+      "object_complexity_arguments",
+      "graphical_resolution_class",
+      "graphical_resolution_arguments",
+      "overall_readability_class",
+      "overall_readability_arguments"
+    ],
+    "properties": {
+      "filename": {
+        "type": "string",
+        "pattern": "^[A-Za-z0-9_\\-]+\\.png$"
+      },
+
+      "observation_summary": {
+        "type": "string",
+        "minLength": 1
+      },
+
+      "amount_of_information_class": {
+        "type": "number",
+        "minimum": 1.0,
+        "maximum": 4.0,
+        "multipleOf": 0.1
+      },
+
+      "amount_of_information_arguments": {
+        "type": "string",
+        "minLength": 1
+      },
+
+      "spatial_distribution_class": {
+        "type": "number",
+        "minimum": 1.0,
+        "maximum": 4.0,
+        "multipleOf": 0.1
+      },
+
+      "spatial_distribution_arguments": {
+        "type": "string",
+        "minLength": 1
+      },
+
+      "object_complexity_class": {
+        "type": "number",
+        "minimum": 1.0,
+        "maximum": 4.0,
+        "multipleOf": 0.1
+      },
+
+      "object_complexity_arguments": {
+        "type": "string",
+        "minLength": 1
+      },
+
+      "graphical_resolution_class": {
+        "type": "number",
+        "minimum": 1.0,
+        "maximum": 4.0,
+        "multipleOf": 0.1
+      },
+
+      "graphical_resolution_arguments": {
+        "type": "string",
+        "minLength": 1
+      },
+
+      "overall_readability_class": {
+        "type": "number",
+        "minimum": 1.0,
+        "maximum": 4.0,
+        "multipleOf": 0.1
+      },
+
+      "overall_readability_arguments": {
+        "type": "string",
+        "minLength": 1
+      }
+    }
+  }
+}
