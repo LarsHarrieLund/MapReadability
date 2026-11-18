@@ -14,3 +14,4 @@ This folder contains the JSON-schema, a zipped folder with the maps used for cal
 - MRAS_Instructions.md: describes the operational workflow for MRAS
 - MRAS_Overview: describes the overall MRAS architecture
 - MRAS_ScientificBasis.md: describes the scientific basis that should be used in the map reading evaluation
+- maps_used_for_callibration.zip: maps used for calibration
