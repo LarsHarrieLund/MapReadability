@@ -24,7 +24,7 @@ An example output from the foundation models using approach 1.
 ![description](https://github.com/LarsHarrieLund/MapReadability/blob/main/Img/MRAS_Lund.png?raw=true)
 
 <br>
-Source original map: Lantmäteriet, Sweden. 
+Source original map:. GSD-Fastighetskartan, raster, Lantmäteriet, Sweden.  © Lantmäteriet  
 <br>
 
 ## Contents
