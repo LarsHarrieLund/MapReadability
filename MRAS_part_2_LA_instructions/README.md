@@ -9,9 +9,9 @@
 
 This folder contains ... The list below presents summarised information on each one of the files included:
 
-- json_schema.json: [add short description]
-- maps_used_for_callibration.zip: [add short description]
-- MRAS_Callibration.md: [add short description]
-- MRAS_Instructions.md: [add short description]
-- MRAS_ScientificBasis.md: [add short description]
-- MRAS_Overview.md: [add short description]
+- json_schema.json: specify how the JSON output should be structured
+- MRAS_Calibration.md: describes the calibration procedure used for MRAS including the calibrations maps and their perceived map readability values
+- MRAS_Instructions.md: describes the operational workflow for MRAS
+- MRAS_Overview: describes the overall MRAS architecture
+- MRAS_ScientificBasis.md: describes the scientific basis that should be used in the map reading evaluation
+- maps_used_for_callibration.zip: maps used for calibration
