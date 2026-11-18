@@ -5,14 +5,14 @@
 # Map readability
 
 <br>
-<br>
+c
 
-Map production is progressing toward full automation. To ensure that automatically generated maps are satisfactory in terms of human readability, methods are required to assess map readability and, for example, initiate appropriate generalization procedures. In this repository we store some foundation model scripts for evaluating map readability. Two approaches are used: (1) direct multimodal large language model approach - using a schema called MRAS to prompting ChatGPT, and (2) multimodal feature fusion approach using the perception encoder (PE-Core-bigG-14-448) and the multimodal large language model Qwen3.5-27B. More background and example of use of the scripts will be given when they are published. 
+Map production is progressing toward full automation. To ensure that automatically generated maps are satisfactory in terms of human readability, methods are required to assess map readability and, for example, initiate appropriate generalization procedures. In this repository we store some foundation model scripts for evaluating map readability. Two approaches are used: (1) direct multimodal large language model approach - using a schema called MRAS to prompting ChatGPT, and (2) multimodal feature fusion approach using the perception encoder (PE-Core-bigG-14-448) and the multimodal large language model Qwen3.5-27B. More background and example of use of the scripts will be given when they are published. <br>
 
-Contributors to the scripts and the study:
-Lars Harrie, Karolina Pantazatou, Ali Mansourian - Lund University, Sweden 
-Weiming Huang - University of Leeds, UK
-Wenhao Yu, Xiaochi Ma, Yifan Zhang - China University of Geosciences, China
+Contributors to the scripts and the study: <br>
+Lars Harrie, Karolina Pantazatou, Ali Mansourian - Lund University, Sweden <br>
+Weiming Huang - University of Leeds, UK <br>
+Wenhao Yu, Xiaochi Ma, Yifan Zhang - China University of Geosciences, China <br>
 
 <br>
 <br>
