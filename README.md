@@ -7,7 +7,12 @@
 <br>
 <br>
 
-This repository includes information on....
+Map production is progressing toward full automation. To ensure that automatically generated maps are satisfactory in terms of human readability, methods are required to assess map readability and, for example, initiate appropriate generalization procedures. In this repository we store some foundation model scripts for evaluating map readability. Two approaches are used: (1) direct multimodal large language model approach - using a schema called MRAS to prompting ChatGPT, and (2) multimodal feature fusion approach using the perception encoder (PE-Core-bigG-14-448) and the multimodal large language model Qwen3.5-27B. More background and example of use of the scripts will be given when they are published. 
+
+Contributors to the scripts and the study:
+Lars Harrie, Karolina Pantazatou, Ali Mansourian - Lund University, Sweden 
+Weiming Huang - University of Leeds, UK
+Wenhao Yu, Xiaochi Ma, Yifan Zhang - China University of Geosciences, China
 
 <br>
 <br>
@@ -25,11 +30,11 @@ The following figure present the information flow for the map readability proces
 ## Contents
 The repository includes the following folders:
 
-- Multimodal feature fusion part 1 and part 2 Lund: [add short description of folder contents]
-- Multimodal feature fusion part 2 Loas Angeles: [add short description of folder contents]
-- MRAS part 1 - instructions: [add short description of folder contents]
-- MRAS part 2 - Lund - instructions: [add short description of folder contents]
-- MRAS part 2 - LA - instructions: [add short description of folder contents]
+- Multimodal feature fusion part 1 and part 2 Lund: Scripts for some Swedish maps using approach 2. 
+- Multimodal feature fusion part 2 Loas Angeles: Scripts for an automatically generated map over Los Angeles using approach 2. 
+- MRAS part 1 - instructions: Scripts for some Swedish maps using approach 1.
+- MRAS part 2 - Lund - instructions: Scripts for some Swedish maps using approach 1.
+- MRAS part 2 - LA - instructions: Scripts for an automatically generated map over Los Angeles using approach 1. 
 
 <br>
 <br>
@@ -37,7 +42,7 @@ The repository includes the following folders:
 ## License
 BSD 3-Clause License
 
-Copyright (c) 2026, Lars Harrie
+Copyright (c) 2026, Lars Harrie and Weiming Huang
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
