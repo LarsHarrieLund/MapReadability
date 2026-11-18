@@ -17,14 +17,15 @@ Wenhao Yu, Xiaochi Ma, Yifan Zhang - China University of Geosciences, China <br>
 <br>
 <br>
 
-## Process - Information flow
-The following figure present the information flow for the map readability process...
+## Example output
+An example output from the foundation models using approach 1. 
 
 <br>
 
 ![description](https://github.com/LarsHarrieLund/MapReadability/blob/main/Img/MRAS_Lund.png?raw=true)
 
 <br>
+Source original map: Lantmäteriet, Sweden. 
 <br>
 
 ## Contents
