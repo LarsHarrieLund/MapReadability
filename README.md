@@ -30,8 +30,7 @@ Source original map: GSD-Fastighetskartan, raster, Lantmäteriet, Sweden.  © La
 ## Contents
 The repository includes the following folders:
 
-- Multimodal feature fusion part 1 and part 2 Lund: Scripts for some Swedish maps using approach 2. 
-- Multimodal feature fusion part 2 Loas Angeles: Scripts for an automatically generated map over Los Angeles using approach 2. 
+- Multimodal feature fusion part 1 and part 2: Scripts for approach 2. 
 - MRAS part 1 - instructions: Scripts for some Swedish maps using approach 1.
 - MRAS part 2 - Lund - instructions: Scripts for some Swedish maps using approach 1.
 - MRAS part 2 - LA - instructions: Scripts for an automatically generated map over Los Angeles using approach 1. 
